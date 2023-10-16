@@ -8,3 +8,9 @@ Cách cài đặt:
 1. tải ide,sql server, SMSM SQL (query sql vào)
 2. tạo tk mk admin bên SMSM SQL
 3. đăng nhập dùng thử
+
+<h1>tech</h1>
+<ul>
+  <li>C#</li>
+  <li>SQL Server</li>
+</ul>
